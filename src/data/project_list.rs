@@ -2,7 +2,7 @@ use lazy_static::lazy_static;
 use serde_derive::Deserialize;
 use std::collections::HashMap;
 use std::sync::Mutex;
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use super::projects::{game_of_life, joshuto, ruiji, space_farmer_bot, website};
 

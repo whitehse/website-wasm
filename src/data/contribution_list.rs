@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 #[derive(Clone, Debug)]
 pub struct Contribution {
