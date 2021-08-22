@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 const GITHUB_LINK: &str = "https://github.com/kamiyaa/";
 const LINKEDIN_LINK: &str = "https://www.linkedin.com/in/jiayii-zhao/";

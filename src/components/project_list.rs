@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use crate::components::ProjectCard;
 use crate::data::ProjectListType;

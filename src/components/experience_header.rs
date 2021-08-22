@@ -1,5 +1,5 @@
 use crate::data::Experience;
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 #[derive(Clone, Debug, Properties)]
 pub struct Props {

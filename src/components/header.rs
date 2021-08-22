@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use crate::data::LOGO_NAME;
 use crate::routes::{AppRoute, Link};

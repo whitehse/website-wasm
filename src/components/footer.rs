@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use super::SocialLinks;
 
@@ -30,7 +30,7 @@ impl Component for Footer {
             </div>
             <div class="flex_group">
             <p>{ "Built in WebAssembly using " }
-                <a target="_blank" href="https://yew.rs/">{ "yew.rs" }</a>
+                <a target="_blank" href="https://github.com/schell/mogwai/">{ "mogwai" }</a>
             </p>
             </div>
         </footer>

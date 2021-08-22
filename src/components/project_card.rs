@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use crate::data::Project;
 use crate::routes::{AppRoute, Link};

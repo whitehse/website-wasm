@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use crate::components::ExperienceCard;
 use crate::data::{ExperienceListType, EXTRACURRICULAR_LIST};

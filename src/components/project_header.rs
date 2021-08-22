@@ -2,7 +2,7 @@ use std::collections::hash_map::Entry;
 use wasm_bindgen::JsCast;
 use wasm_bindgen_futures::{spawn_local, JsFuture};
 use web_sys::{RequestInit, RequestMode, Response};
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use crate::data::{GithubMetrics, Project, GITHUB_METRICS};
 
