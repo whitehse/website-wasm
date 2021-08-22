@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use crate::components::{ContributionList, ExperienceList, Footer, HomeHeader, ProjectList};
 use crate::data::{CONTRIBUTION_LIST, EXPERIENCE_LIST, PROJECT_LIST};

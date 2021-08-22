@@ -1,5 +1,5 @@
 use web_sys::{ScrollBehavior, ScrollToOptions};
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use crate::components::{Footer, Header};
 

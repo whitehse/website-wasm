@@ -1,4 +1,4 @@
-use yew::prelude::*;
+use mogwai::prelude::*;
 
 use super::PageTemplate;
 use crate::components::ExperienceHeader;
