@@ -1,5 +1,8 @@
 # website-wasm
-My personal website written in rust via yew/wasm
+
+This is a port (and a work in progress) of Jeff Zhao's personal website from Rust Yew to Rust Mogwai.
+
+The Original code can be found [here](https://github.com/kamiyaa/website-wasm)
 
 ![Alt text](screenshot.png?raw=true "website-wasm")
 
